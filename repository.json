@@ -1,0 +1,11 @@
+{
+    "addons": [
+        {
+            "addonid": "plugin.video.terabox",
+            "name": "Terabox Video Addon",
+            "version": "1.0.0",
+            "url": "https://github.com/yourusername/kodi-terabox-addon/plugin.video.terabox.zip",
+            "description": "A Kodi addon to play and manage Terabox links."
+        }
+    ]
+}
