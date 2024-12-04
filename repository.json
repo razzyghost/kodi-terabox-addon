@@ -4,8 +4,8 @@
             "addonid": "plugin.video.terabox",
             "name": "Terabox Video Addon",
             "version": "1.0.0",
-            "url": "https://github.com/razzyghost/kodi-terabox-addon/blob/main/plugin.video.terabox.zip",
-            "description": "A Kodi addon to play and manage Terabox links."
+            "url": "https://raw.githubusercontent.com/razzyghost/kodi-terabox-addon/main/plugin.video.terabox.zip",
+            "description": "Stream videos directly from Terabox."
         }
     ]
 }
